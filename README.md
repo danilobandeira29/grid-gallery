@@ -101,3 +101,16 @@
 }
 
 ```
+
+## min-content / max-content
+**min-content**
+
+- o tamanho da maior palavra de um determinado texto.
+
+**max-content**
+
+- o tamanho será o máximo para suportar um determinado texto.
+
+<p align="center">
+  <img src="./assets/min-content.png" alt="min content">
+</p>
